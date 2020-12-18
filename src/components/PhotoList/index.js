@@ -6,18 +6,18 @@ const PhotoList = ({currentCategory}) => {
   const [photos] = useState([
     {
       name: 'projects',
-      description: 'Run Buddy, HTML & CSS',
-      link: "https://natswatch.github.io/run-buddy/",
-      github:"https://github.com/natswatch/run-buddy",
+      description: 'Run Buddy',
+      link: "https://nguyenali.github.io/run-buddy/",
+      github:"https://github.com/nguyenali/run-buddy",
       id: 0
     },
-    { name: 'projects', description: 'MyTeam - Team profile generator, Node.js',
-      link: "https://github.com/natswatch/myteam",
-      github: "https://github.com/natswatch/myteam",
+    { name: 'projects', description: 'Work-Day-Planner',
+      link: "https://nguyenali.github.io/Work-Day-Scheduler/",
+      github: "https://github.com/nguyenali/Work-Day-Scheduler",
        id: 1},
     { name: 'projects', description: 'Weather Dashboard, Web API', 
-      link:"https://natswatch.github.io/weather-it",
-      github: "https://github.com/natswatch/weather-it",
+      link:"https://stormy-chamber-41832.herokuapp.com/",
+      github: "https://github.com/nguyenali/budget-accounter",
       id: 2 },
     { name: 'projects', description: 'Tech This Out - Tech blog, MVC', id: 3 },
     {
