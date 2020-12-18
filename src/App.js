@@ -38,6 +38,7 @@ function App() {
           <ContactForm></ContactForm>
         )}
       </main>
+      <footer></footer>
     </div>
   );
 }
