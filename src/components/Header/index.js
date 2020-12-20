@@ -4,8 +4,8 @@ function Header(props) {
     return (
         <div id="header">
             <div class="container">
-                    <a href="http://itsrheine.github.io/react-portfolio" id="header-title">
-                        Ali<a href='http://itsrheine.github.io/react-portfolio'>.</a>Nguyen
+                    <a href="https://nguyenali.github.io/react-portfolio/" id="header-title">
+                        Ali<a href='https://nguyenali.github.io/react-portfolio/'>.</a>Nguyen
                     </a>
                     <ul id="header-nav">
                     {props.children}
