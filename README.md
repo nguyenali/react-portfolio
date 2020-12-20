@@ -1,7 +1,6 @@
 # React-Portfolio
 
-<img width="1419" alt="Screen Shot 2020-12-12 at 7 03 54 PM" src="https://user-images.githubusercontent.com/67357469/102001978-d32e4b00-3cac-11eb-850f-53c92031c8e7.png">
-
+<img width="1271" alt="Screen Shot 2020-12-19 at 11 49 00 PM" src="https://user-images.githubusercontent.com/67357469/102708042-e022df80-4254-11eb-82b2-3cf913c958e4.png">
 
 ## Purpose 
 
