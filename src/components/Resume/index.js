@@ -1,15 +1,20 @@
 import React from 'react';
-import MyPDF from '../files/ncunanan-resume-2020.pdf';
-
+import myResume from '../../assets/images/resume.pdf';
 
 function Resume() {
-  
-  return (
-    <div>
-      <h1>resume</h1>
-      <p><a href={MyPDF} download="My_File.pdf">resume. </a></p>
-    </div>
-  )
+    return (
+        <div id="content">
+            <div class="post-container">
+                <div class="post">
+                    <div class="post-author">
+                        <h1>Resume</h1>
+                        <a href={myResume} target="blank">View PDF Version</a><br></br>
+                        <a href="https://docs.google.com/document/d/1XLimSfMrADcTutt2ygZGS03rubClhQOtgP6G98lgucg/edit?usp=sharing" target="blank">View Google Drive Version</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
 }
 
 export default Resume;
