@@ -5,7 +5,7 @@ function Header(props) {
         <div id="header">
             <div class="container">
                     <a href="https://nguyenali.github.io/react-portfolio/" id="header-title">
-                        Ali<a href='https://nguyenali.github.io/react-portfolio/'>.</a>Nguyen
+                        Ali<a href='https://nguyenali.github.io/react-portfolio/git'>.</a>Nguyen
                     </a>
                     <ul id="header-nav">
                     {props.children}
