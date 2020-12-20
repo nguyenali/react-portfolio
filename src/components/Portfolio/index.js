@@ -4,40 +4,40 @@ import Project from '../Project';
 function Portfolio() {
     const [projects] = useState([
         {
-            name: 'Travel Dashboard',
-            desciption: 'Travel Search Engine',
-            link: 'https://itsrheine.github.io/Travel-Dashboard/',
-            github: 'https://github.com/itsrheine/Travel-Dashboard'
+            name: 'Work Day Scheduler',
+            desciption: 'Work day planner',
+            link: 'https://nguyenali.github.io/Work-Day-Scheduler/',
+            github: 'https://github.com/nguyenali/Work-Day-Scheduler'
         },
         {
-            name: 'Tech Blog',
-            description: 'Social media-like blog for Tech professionals',
-            link: 'http://thawing-temple-74323.herokuapp.com/',
-            github: 'https://github.com/itsrheine/tech-blog'
-        },
-        {
-            name: 'Note Taker',
-            description: 'Virtual Notepad',
-            link: 'https://immense-wildwood-69263.herokuapp.com',
-            github: 'https://github.com/itsrheine/note-taker'
+            name: 'Password Generator',
+            description: 'Generator for new passwords',
+            link: 'https://nguyenali.github.io/Password-Generator/',
+            github: 'https://github.com/nguyenali/Password-Generator'
         },
         {
             name: 'Budget Tracker',
-            description: 'Web & Mobile Interactive budget Tracker',
-            link: 'https://protected-basin-21646.herokuapp.com/',
-            github: 'https://github.com/itsrheine/budget-tracker'
+            description: 'Interactive budget tracker',
+            link: 'https://stormy-chamber-41832.herokuapp.com/',
+            github: 'https://github.com/nguyenali/budget-accounter'
         },
         {
             name: 'Weather Dashboard',
-            description: 'OpenWeather API Web Application',
-            link: 'https://itsrheine.github.io/weather-app/',
-            github: 'https://github.com/itsrheine/weather-app/'
+            description: 'Weather forecast for an inputted city',
+            link: 'https://nguyenali.github.io/Weather-Dashboard/',
+            github: 'https://github.com/nguyenali/Weather-Dashboard'
         },
         {
-            name: 'Team Profile Generator',
-            description: 'Node based generator producing a web output',
-            link: 'https://github.com/itsrheine/team-profile-generator',
-            github: 'https://github.com/itsrheine/team-profile-generator'
+            name: 'Code Quiz',
+            description: 'Test your javscript knowledge',
+            link: 'https://nguyenali.github.io/Code-Quiz/',
+            github: 'https://github.com/nguyenali/Code-Quiz'
+        },
+        {
+            name: 'Note Taker',
+            description: 'Write and store notes using remote storage',
+            link: 'https://nguyenali.github.io/Code-Quiz/',
+            github: 'https://github.com/nguyenali/Code-Quiz'
         },
     ])
 
