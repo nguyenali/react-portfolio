@@ -9,7 +9,7 @@ function Resume() {
                     <div class="post-author">
                         <h1>Resume</h1>
                         <a href={myResume} target="blank">View PDF Version</a><br></br>
-                        <a href="https://docs.google.com/document/d/1XLimSfMrADcTutt2ygZGS03rubClhQOtgP6G98lgucg/edit?usp=sharing" target="blank">View Google Drive Version</a>
+                        <a href="https://docs.google.com/document/d/1kEstNNhS2YNMnVEhSJncYXOcluXrwOoSxQjuPd-h2hs/edit#heading=h.5rf9wr4r3no2" target="blank">View Google Drive Version</a>
                     </div>
                 </div>
             </div>
