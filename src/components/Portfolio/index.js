@@ -39,6 +39,12 @@ function Portfolio() {
             link: 'https://nguyenali.github.io/Code-Quiz/',
             github: 'https://github.com/nguyenali/Code-Quiz'
         },
+        {
+            name: 'Shop-Tinder',
+            description: 'E-commerce site with tinder functionality',
+            link: 'https://shop-tinder.herokuapp.com/ ',
+            github: 'https://github.com/RonanSilasSmith/Shop-Tinder'
+        }
     ])
 
     return (

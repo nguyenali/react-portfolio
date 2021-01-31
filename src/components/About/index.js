@@ -16,8 +16,8 @@ function About() {
                         I am a bay area native that gradutated from UC DAVIS with a Bachelor's in Biological Sciences.
                         Although I intended to be on the pre-med route, the COVId-19 Pandemic hit and stalled my plans.
                         During that time, I realized the importance of technology and how much it was impacting the world.
-                        I realized that, yes medicine does change lives, but technology can also change lives as well. And so
-                        my journey into coding in hopes that someday I too can change the world. Contact me if interested in
+                        I realized that, yes medicine does change lives, but technology can also impact lives as well. And so
+                        my journey into coding began in hopes that someday I too can change the world. Contact me if interested in
                         my work.
 
                         </p>
